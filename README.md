@@ -2,9 +2,10 @@ In this project, I will work on classifying hand gestures using landmark data ge
 The input to the project is a CSV file containing hand landmarks (e.g., x, y, z coordinates of keypoints) extracted from the HaGRID dataset using MediaPipe. 
 The output will be a trained machine learning model capable of classifying hand gestures into predefined classes.
 
-![Hand_LandMarks](https://github.com/user-attachments/assets/88ec92aa-9b54-44a3-9ac7-d0f0b1f345db)
+
 
 ![Hand_Gestures](https://github.com/user-attachments/assets/1b8996f6-d9be-40b1-b243-3c02fb75d002)
 
 https://github.com/user-attachments/assets/4ab81ee5-3913-45f6-8d29-06b23b692e5e
 
+![Hand_LandMarks](https://github.com/user-attachments/assets/88ec92aa-9b54-44a3-9ac7-d0f0b1f345db)
